@@ -1,5 +1,5 @@
 # Ссылка на 2 часть тестового задания
-https://docs.google.com/document/d/1s-ntkeLzOIfi7bpE5AfMT4EsfZqKB79DejeeXis1GgE/edit?usp=sharing
+https://docs.google.com/document/d/e/2PACX-1vTmXW72OkJJGrCIt7URDuKS5WSe-SXnVvIk8PqeCc-VgFN1Z6-cE8tILcCDJPUMVY6DRBVevLyaCaNN/pub
 
 ## Управление в прототипе
 
@@ -9,6 +9,8 @@ https://docs.google.com/document/d/1s-ntkeLzOIfi7bpE5AfMT4EsfZqKB79DejeeXis1GgE/
 
 **В зоне TopDownCamera:** — AD — назад/вперед от персонажа, W/S — влево/вправо от персонажа (по направлению осей камеры);
 
+**Важно:** управление не меняется до тех пор, пока игрок не отпустит клавишу бега. Это сделано для того, чтобы при захождении в триггер бокс управление не менялось резко, что может дезориентировать в процессе.
+
 ## Другое
 
-[Ссылка](https://disk.yandex.ru/i/R4t1Aw_l1oU3RQ) на видео прототипа
+[Ссылка](https://disk.yandex.ru/i/xvKZi7rZxCWNnQ) на видео прототипа
